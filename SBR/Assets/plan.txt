@@ -1,0 +1,21 @@
+enemies are like zombies or aliens
+
+enemies can attack you in melee
+
+damage slows entities down
+
+multiple levels
+
+energy constantly drains
+
+shooting laser drains even more energy
+
+can find special loot in every level
+
+game remembers what you did find and what you did not find
+
+npcs on every level
+
+game remembers if npcs died or lived
+
+game remembers if you killed the npc or not
